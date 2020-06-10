@@ -1,0 +1,4 @@
+Test, 11.0
+Chair, 23.0
+Table, 23.0
+Lamp, 12.0
